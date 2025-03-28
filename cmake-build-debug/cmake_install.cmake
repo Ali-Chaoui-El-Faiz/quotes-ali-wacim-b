@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/alich/CLionProjects/quotes-ali-wacim-b
+# Install script for directory: C:/Users/wacim/CLionProjects/quotes-ali-wacim-b
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "C:/Users/alich/CLionProjects/quotes-ali-wacim-b/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "C:/Users/wacim/CLionProjects/quotes-ali-wacim-b/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

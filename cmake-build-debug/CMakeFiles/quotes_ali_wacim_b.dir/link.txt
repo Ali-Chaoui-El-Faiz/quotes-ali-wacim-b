@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2024.3.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\quotes_ali_wacim_b.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc CMakeFiles\quotes_ali_wacim_b.dir/objects.a @CMakeFiles\quotes_ali_wacim_b.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\quotes_ali_wacim_b.dir/objects.a -Wl,--no-whole-archive -o quotes_ali_wacim_b.exe -Wl,--out-implib,libquotes_ali_wacim_b.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\quotes_ali_wacim_b.dir\linkLibs.rsp
